@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">BTL_Nhom9</string>
+    <string name="description">description</string>
+    <string name="first_slide">first_slide</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
