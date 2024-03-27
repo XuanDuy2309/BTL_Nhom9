@@ -1,7 +1,11 @@
 <resources>
     <string name="app_name">BTL_Nhom9</string>
-    <string name="description">description</string>
-    <string name="first_slide">first_slide</string>
+
+    <string name="first_slide">Choose Your Products</string>
+    <string name="second_slide">Fast Delivery</string>
+    <string name="third_slide">Good Services</string>
+
+    <string name="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum vitae quam eu nibh tincidunt placerat. Aliquam dictum condimentum velit consectetur interdum. Vivamus maximus leo eros, eget vulputate ante semper ac. Suspendisse non augue nunc. Ut at euismod massa, eget auctor magna. Pellentesque aliquet, quam interdum dictum ultrices, nunc magna eleifend arcu, non pretium tellus odio sit amet velit. Proin vitae aliquet sem. Nam tortor nibh, mollis sed fringilla eu, aliquet vitae lorem. Aliquam tincidunt est justo.</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>

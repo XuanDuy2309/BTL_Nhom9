@@ -20,8 +20,7 @@
             android:layout_height="220dp"
             app:iss_auto_cycle="true"
             app:iss_delay="0"
-            app:iss_period="1000"
-            tools:ignore="MissingClass" />
+            app:iss_period="1000" />
 
         <LinearLayout
             android:layout_width="match_parent"
@@ -34,7 +33,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
-                android:fontFamily="amethysta"
+                android:fontFamily="@font/amethysta"
                 android:text="Category"
                 android:textSize="21sp"
                 android:textStyle="bold" />
@@ -45,10 +44,10 @@
                 android:layout_height="wrap_content"
                 android:layout_marginRight="8dp"
                 android:layout_weight="1"
-                android:fontFamily="amethysta"
+                android:fontFamily="@font/amethysta"
                 android:gravity="end"
                 android:text="See All"
-                android:textColor="pink"
+                android:textColor="@color/pink"
                 android:textSize="18sp"
                 android:textStyle="bold" />
 
@@ -84,7 +83,7 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="9dp"
-                        android:fontFamily="amethysta"
+                        android:fontFamily="@font/amethysta"
                         android:text="New Products"
                         android:textSize="21sp"
                         android:textStyle="bold" />
@@ -102,9 +101,9 @@
                         android:layout_height="wrap_content"
                         android:layout_alignParentEnd="true"
                         android:layout_marginRight="8dp"
-                        android:fontFamily="amethysta"
+                        android:fontFamily="@font/amethysta"
                         android:text="See All"
-                        android:textColor="pink"
+                        android:textColor="@color/pink"
                         android:textSize="18sp"
                         android:textStyle="bold" />
                 </RelativeLayout>
@@ -134,7 +133,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_marginLeft="9dp"
-                    android:fontFamily="amethysta"
+                    android:fontFamily="@font/amethysta"
                     android:text="Popular Products"
                     android:textSize="21sp"
                     android:textStyle="bold" />
@@ -152,9 +151,9 @@
                     android:layout_height="wrap_content"
                     android:layout_alignParentEnd="true"
                     android:layout_marginRight="8dp"
-                    android:fontFamily="amethysta"
+                    android:fontFamily="@font/amethysta"
                     android:text="See All"
-                    android:textColor="pink"
+                    android:textColor="@color/pink"
                     android:textSize="18sp"
                     android:textStyle="bold" />
             </RelativeLayout>
